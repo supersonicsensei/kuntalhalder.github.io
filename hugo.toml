@@ -1,4 +1,4 @@
 baseURL = 'https://kuntalhalder.github.io/'
 languageCode = 'en-us'
-title = 'Kuntal'
+title = 'Kuntals Page'
 theme = 'hugo-book'
