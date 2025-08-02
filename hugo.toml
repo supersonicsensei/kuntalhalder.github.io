@@ -1,6 +1,6 @@
 baseurl = "https://zhaohuabing.com"
 title = "Huabing Blog"
-theme = "hugo-theme-cleanwhite"
+theme = "cleanwhite"
 languageCode = "en-us"
 preserveTaxonomyNames = true
 hasCJKLanguage = true
