@@ -2,25 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kuntal Page</title>
-    <link>https://kuntalhalder.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Kuntal Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Jul 2025 00:13:22 +0530</lastBuildDate>
-    <atom:link href="https://kuntalhalder.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entry1</title>
-      <link>https://kuntalhalder.github.io/posts/entry1/</link>
+      <link>http://localhost:1313/posts/entry1/</link>
       <pubDate>Wed, 30 Jul 2025 00:13:22 +0530</pubDate>
-      <guid>https://kuntalhalder.github.io/posts/entry1/</guid>
-      <description>&lt;h1 id=&#34;hey-there-little-girl-are-you-lost-on-your-way-home&#34;&gt;&#xD;&#xA;  Hey there little girl are you lost on your way home?&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#hey-there-little-girl-are-you-lost-on-your-way-home&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Got&lt;/em&gt; a &lt;strong&gt;light&lt;/strong&gt;?&lt;/p&gt;&#xA;&lt;h2 id=&#34;this-is-how-post-titles-look&#34;&gt;&#xD;&#xA;  This is how post titles look&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#this-is-how-post-titles-look&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;h2 id=&#34;even-bigger&#34;&gt;&#xD;&#xA;  Even bigger&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#even-bigger&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;h3 id=&#34;even-bigggerrrr&#34;&gt;&#xD;&#xA;  Even bigggerrrr!!!&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#even-bigggerrrr&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;</description>
-    </item>
-    <item>
-      <title>Hey this is my first post</title>
-      <link>https://kuntalhalder.github.io/posts/post1/</link>
-      <pubDate>Fri, 18 Jul 2025 01:00:43 +0530</pubDate>
-      <guid>https://kuntalhalder.github.io/posts/post1/</guid>
-      <description>&lt;p&gt;Mi casa es su casa!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/entry1/</guid>
+      <description>&lt;h1 id=&#34;hey-there-little-girl-are-you-lost-on-your-way-home&#34;&gt;Hey there little girl are you lost on your way home?&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Got&lt;/em&gt; a &lt;strong&gt;light&lt;/strong&gt;?&lt;/p&gt;&#xA;&lt;h2 id=&#34;this-is-how-post-titles-look&#34;&gt;This is how post titles look&lt;/h2&gt;&#xA;&lt;h2 id=&#34;even-bigger&#34;&gt;Even bigger&lt;/h2&gt;&#xA;&lt;h3 id=&#34;even-bigggggerrrr&#34;&gt;Even bigggggerrrr!!!&lt;/h3&gt;</description>
     </item>
   </channel>
 </rss>
